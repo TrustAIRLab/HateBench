@@ -83,7 +83,7 @@ Our work relies on LLMs to generate samples, and all the manual annotations are 
 If you find this useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{SQBZ24,
+@inproceedings{SWQBZZ25,
   author = {Xinyue Shen and Yixin Wu and Yiting Qu and Michael Backes and Savvas Zannettou and Yang Zhang},
   title = {{HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns}},
   booktitle = {{USENIX Security Symposium (USENIX Security)}},
