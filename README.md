@@ -3,7 +3,7 @@
 [![USENIX: 2025](https://img.shields.io/badge/USENIX-2025-red.svg)]()
 [![arXiv: preprint](https://img.shields.io/badge/arXiv-preprint-orange.svg)]()
 [![dataset: huggingface](https://img.shields.io/badge/dataset-huggingface-yellow)](https://huggingface.co/datasets/TrustAIRLab/HateBenchSet)
-[![license](https://img.shields.io/badge/License-CC_BY_4.0/MIT-blue)](#license)
+[![license](https://img.shields.io/badge/License-Apache_2.0-blue)](#license)
 
 This is the official repository of the USENIX 2025 paper [HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns]().
 
