@@ -55,7 +55,7 @@ Data structure:
 We also provide a labeled version of `HateBenchSet`, which is `HateBenchSet` with the predictions of the six detectors evaluated in our paper.
 
 
-Specfically, for each detector, the predictions are recorded in following columns:
+Specifically, for each detector, the predictions are recorded in the following columns:
 
 * `{detector}`: the complete record returned by the detector.
 * `{detector}_score`: the hate score of the sample.
@@ -68,8 +68,8 @@ dataset = load_dataset("TrustAIRLab/HateBenchSet", "labeled")
 
 ## LLM-Driven Hate Campaign
 
-Given the ethical concerns, code are provided in [Zenodo](https://zenodo.org/records/14723753) with the request-access feature enabled.
-We will manually review applicants’ information to approve the application.
+Given the ethical concerns, code are provided in [Zenodo](https://zenodo.org/records/14840447) with the request-access feature enabled.
+We will manually review the applicants’ information to approve the application.
 
 ## Ethics & Disclosure
 
